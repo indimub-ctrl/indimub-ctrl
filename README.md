@@ -1,16 +1,20 @@
-## Hi there 👋
+# Helloo I'm Bahati Indimu | Future Educator & Software Engineer
 
-<!--
-**indimub-ctrl/indimub-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Precision in Logic, Mastery in Strategy." ♟️
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 📚 **First-Year Education Science Student** (Focus: Mathematic, Physics, & Chemistry)
+- 🇰🇪 Based in **Kakamega, Kenya** 📍
+- 💻 Building tools to bridge the gap between **STEM education** and **Software Development**.
+- ♟️ **Chess Enthusiast:** 1300 Elo on Chess.com | Studying tactical mastery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ The Tech Stack
+- **Languages:** Python (Logic), JavaScript (Frontend), HTML/CSS (Aesthetics)
+- **Current Focus:** Developing a "Catch the Ball" Physics-based game and a 3-2-1 Study Timer.
+
+### 📈 Current Projects
+- ⏳ **[3-2-1 Study Timer](https://indimub-ctrl.github.io/study-timer/):** A custom web-app built for the 3-2-1 study method.
+- 🧪 **Physics Lab Simulations:** Converting Newton’s Law of Cooling into interactive code.
+
+---
+*"The best way to predict the future is to code it."*
