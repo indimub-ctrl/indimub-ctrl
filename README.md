@@ -1,6 +1,6 @@
 # Helloo I'm Bahati Indimu | Future Educator & Software Engineer
 
-> "Precision in Logic, Mastery in Strategy." ♟️
+> "Precision in Logic, Mastery in Strategy."
 
 ### About Me
  **First-Year Education Science Student** (Focus: Mathematic, Physics, & Chemistry)
